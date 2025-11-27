@@ -1,1 +1,1 @@
-# Logistic-Regression-from-Scratch
+# MLalgos-from-Scratch
